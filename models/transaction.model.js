@@ -1,0 +1,51 @@
+module.exports = [
+    {
+      id: 1,
+      item_name: "Salary",
+      amount: 3000,
+      month: "January",
+      from: "Employer",
+      category: "Income",
+    },
+    {
+      id: 2,
+      item_name: "Rent",
+      amount: -1200,
+      month: "January",
+      from: "Landlord",
+      category: "Housing",
+    },
+    {
+      id: 3,
+      item_name: "Groceries",
+      amount: -200,
+      month: "February",
+      from: "Local Supermarket",
+      category: "Food",
+    },
+    {
+      id: 4,
+      item_name: "Internet Bill",
+      amount: -50,
+      month: "February",
+      from: "Internet Provider",
+      category: "Utilities",
+    },
+    {
+      id: 5,
+      item_name: "Dining Out",
+      amount: -100,
+      month: "March",
+      from: "Local Restaurant",
+      category: "Dining",
+    },
+    {
+      id: 6,
+      item_name: "Savings",
+      amount: 500,
+      month: "March",
+      from: "Personal",
+      category: "Savings",
+    },
+  ];
+  
